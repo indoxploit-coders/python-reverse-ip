@@ -1,7 +1,7 @@
 # python-reverse-ip
 Script Auto Reverse IP Lookup with Python 
 
-[Tool Deface Opencart Bruteforce and Upload Image](https://exploit.linuxsec.org/tool-deface-opencart-bruteforce-upload-image/)
+[Script Auto Reverse IP Lookup with Python](https://exploit.linuxsec.org/script-auto-reverse-ip-lookup-python-indoxploit/)
 
 ## Disclaimer
 
